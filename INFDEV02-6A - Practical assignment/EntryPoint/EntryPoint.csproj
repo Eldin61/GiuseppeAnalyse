@@ -42,6 +42,8 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Merge.cs" />
+    <Compile Include="Warshall.cs" />
     <Compile Include="KDtree.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
